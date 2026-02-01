@@ -1,0 +1,1 @@
+# Data-driven-approximation-of-transfer-operators-for-mean-field-SDEs
